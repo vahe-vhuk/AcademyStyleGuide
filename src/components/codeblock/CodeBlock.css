@@ -1,0 +1,35 @@
+/* App.css */
+
+.CodeBlock {
+  font-family: Arial, sans-serif;
+  /*padding: 20px;*/
+  font-size: 11px;
+  border: 1px solid blue;
+}
+
+/*code {*/
+/*  font-family: 'Courier New', Courier, monospace;*/
+/*  font-size: 14px;*/
+/*  background-color: #f4f4f4;*/
+/*  padding: 5px;*/
+/*  border-radius: 5px;*/
+/*  border: 1px solid #ddd;*/
+/*  display: block;*/
+/*  overflow-x: auto;*/
+/*  white-space: pre-wrap;*/
+/*  min-width: 80ch; !* Ensure minimum width of 80 characters *!*/
+/*}*/
+
+/*pre {*/
+/*  margin: 0;*/
+/*  padding: 10px;*/
+/*  overflow: auto;*/
+/*  background-color: #f9f9f9;*/
+/*  border-radius: 5px;*/
+/*  border: 1px solid #ddd;*/
+/*}*/
+
+/*!* Optional: Add some margin between code blocks *!*/
+/*pre + pre {*/
+/*  margin-top: 20px;*/
+/*}*/

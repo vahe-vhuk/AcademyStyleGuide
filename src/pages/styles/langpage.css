@@ -1,0 +1,19 @@
+.langpage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin-top: 50px; /* Adjust as needed */
+}
+
+.langpage > div {
+    width: 100%;
+    max-width: 80%; /* Adjust as needed */
+    margin-bottom: 20px;
+}
+
+.langpage h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
